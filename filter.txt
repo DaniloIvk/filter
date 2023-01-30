@@ -1,2 +1,2 @@
-# Clear YouTube Search
+# Clear YouTube search from junk
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
